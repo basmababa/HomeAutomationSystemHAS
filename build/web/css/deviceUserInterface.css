@@ -1,0 +1,17 @@
+
+.divDeviceForms
+{
+    background-color: orange;
+}
+.divRightText{
+    text-align: right;
+}
+.clsActive
+{
+    background: burlywood;
+}
+
+.clsInActive
+{
+    background: gray;
+}
